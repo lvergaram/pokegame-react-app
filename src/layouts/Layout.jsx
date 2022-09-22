@@ -16,7 +16,6 @@ export const Layout = ({ children,title }) => {
 
         <MainMenu />
         <main>
-           
             {children}
         </main>
 
