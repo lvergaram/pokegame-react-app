@@ -12,7 +12,7 @@ export const MainMenu = () => {
         </Navbar.Brand> */}
         <Navbar.Content hideIn="xs">
           <Navbar.Link href="/">Juego</Navbar.Link>
-          <Navbar.Link isActive href="#">Customers</Navbar.Link>
+          <Navbar.Link isActive href="/mapPage">Mapa</Navbar.Link>
           <Navbar.Link href="#">Pricing</Navbar.Link>
           <Navbar.Link href="#">Company</Navbar.Link>
         </Navbar.Content>
